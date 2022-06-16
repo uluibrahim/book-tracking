@@ -1,0 +1,14 @@
+{
+    "somethingWentWrong": "Bir hata oluştu..!",
+    "bookList": "Kitap Listesi",
+    "myBooks": "Kitaplarım",
+    "isbn": "ISBN",
+    "author": "Yazar",
+    "history": "Tarih",
+    "publisher": "Yayım",
+    "genre": "Tür",
+    "thereAreNoBooksOnYourList": "Listenizle hiç kitap yok!",
+    "selectTheLocationYouWantToMove": "Taşımak istediğiniz konumu seçiniz",
+    "cancel": "Vazgeç",
+    "reorder": "Yeniden sırala"
+}
